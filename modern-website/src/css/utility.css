@@ -1,0 +1,75 @@
+@media only screen and (min-width: 640px) {
+    .leftRighBorder:nth-child(odd){
+        justify-content: start;
+        border-left: 2px solid white;
+        
+        transform: translateX(100%);
+        position: relative;
+        right: 2px;
+    
+    }
+    
+    .leftRighBorder:nth-child(even){
+        border-right: 2px solid white;
+        justify-content: end;
+        flex-direction: row-reverse;
+    
+    }
+  }
+
+  @media only screen and (max-width: 640px) {
+    .leftRighBorder{
+        border-left: 2px solid white;
+    
+    }
+    
+  }
+
+
+.timeLineBlurb:hover > .bounceArrow{
+    animation: bounce 0.5s;
+    animation-direction: alternate;
+    animation-iteration-count: 4;
+
+}
+
+
+@keyframes bounce{
+    from { transform: translate3d(0, 0, 0);}
+    to { transform: translate3d(0, 5px, 0);}
+}
+
+.quick-example {
+    margin: .5rem;
+    
+    background: hsla(0, 0%, 96%, 0);
+    border-radius: 0.5rem;
+  
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 500ms;
+  }
+  
+  .quick-example > div {
+    overflow: hidden;
+  }
+  
+  .quick-example-test {
+    grid-template-rows: 1fr;
+  }
+
+  .nav-shadow:hover > h2 {
+    color: rgb(0, 211, 18);
+    text-shadow: 0 0 3px #C8C8C8;
+  }
+
+  .textColor{
+    color: rgb(0, 211, 18);
+  }
+
+
+
+  .test:hover{
+    color: rgb(0, 211, 18);
+    text-shadow: 0 0 3px #C8C8C8;
+  }
