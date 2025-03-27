@@ -3,3 +3,7 @@
 @tailwind utilities;
 
 
+:root {
+    --blue: #bcd2e8;
+    --white: #ffffff;
+  }
