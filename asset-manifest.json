@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/samksites/modern-website/static/css/main.f8f3d1e0.chunk.css",
+    "main.js": "/samksites/modern-website/static/js/main.042ec5df.chunk.js",
+    "main.js.map": "/samksites/modern-website/static/js/main.042ec5df.chunk.js.map",
+    "runtime~main.js": "/samksites/modern-website/static/js/runtime~main.319f6403.js",
+    "runtime~main.js.map": "/samksites/modern-website/static/js/runtime~main.319f6403.js.map",
+    "static/js/2.92cb7729.chunk.js": "/samksites/modern-website/static/js/2.92cb7729.chunk.js",
+    "static/js/2.92cb7729.chunk.js.map": "/samksites/modern-website/static/js/2.92cb7729.chunk.js.map",
+    "index.html": "/samksites/modern-website/index.html",
+    "precache-manifest.4db40c38fe2f294938f95df7aa290ff0.js": "/samksites/modern-website/precache-manifest.4db40c38fe2f294938f95df7aa290ff0.js",
+    "service-worker.js": "/samksites/modern-website/service-worker.js",
+    "static/css/main.f8f3d1e0.chunk.css.map": "/samksites/modern-website/static/css/main.f8f3d1e0.chunk.css.map",
+    "static/media/Florida_Group.jpeg": "/samksites/modern-website/static/media/Florida_Group.1973fd7a.jpeg",
+    "static/media/Sam_Carter_Cvill.jpeg": "/samksites/modern-website/static/media/Sam_Carter_Cvill.5ad39ed8.jpeg",
+    "static/media/Sam_Carter_snowboard.jpeg": "/samksites/modern-website/static/media/Sam_Carter_snowboard.80dd5cda.jpeg",
+    "static/media/SanAntonioSwimming.jpeg": "/samksites/modern-website/static/media/SanAntonioSwimming.56857573.jpeg",
+    "static/media/arlingtonSunSet.jpeg": "/samksites/modern-website/static/media/arlingtonSunSet.12b78e25.jpeg",
+    "static/media/background.jpg": "/samksites/modern-website/static/media/background.5234bbf5.jpg",
+    "static/media/califronia.jpeg": "/samksites/modern-website/static/media/califronia.628dd277.jpeg",
+    "static/media/carterSamDate.jpeg": "/samksites/modern-website/static/media/carterSamDate.182903d6.jpeg",
+    "static/media/floridaSwimming.jpeg": "/samksites/modern-website/static/media/floridaSwimming.104ff2c1.jpeg",
+    "static/media/hershey.jpeg": "/samksites/modern-website/static/media/hershey.85e47185.jpeg",
+    "static/media/jmu.jpg": "/samksites/modern-website/static/media/jmu.a8be366a.jpg",
+    "static/media/panda.jpeg": "/samksites/modern-website/static/media/panda.f4734607.jpeg",
+    "static/media/richmondVA.jpg": "/samksites/modern-website/static/media/richmondVA.eeec8cc1.jpg",
+    "static/media/starWars.jpeg": "/samksites/modern-website/static/media/starWars.10da04ba.jpeg",
+    "static/media/westCoastRacer.jpeg": "/samksites/modern-website/static/media/westCoastRacer.76e8d25b.jpeg"
+  }
+}
