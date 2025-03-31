@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/samksites/modern-website/static/css/main.3324dd4a.css",
-    "main.js": "/samksites/modern-website/static/js/main.6cb065d5.js",
-    "static/media/richmondVA.jpg": "/samksites/modern-website/static/media/richmondVA.891cc82848cc9f59c33c.jpg",
-    "static/media/background.jpg": "/samksites/modern-website/static/media/background.6cfdd750f9b444cd045c.jpg",
-    "static/media/jmu.jpg": "/samksites/modern-website/static/media/jmu.80347d9caf6a4d56af7e.jpg",
-    "static/media/Florida_Group.jpeg": "/samksites/modern-website/static/media/Florida_Group.1204043598f3b8ccfde0.jpeg",
-    "static/media/Sam_Carter_Cvill.jpeg": "/samksites/modern-website/static/media/Sam_Carter_Cvill.1ab63669bcd6b6b993ec.jpeg",
-    "static/media/carterSamDate.jpeg": "/samksites/modern-website/static/media/carterSamDate.800b5494ac36edf58636.jpeg",
-    "static/media/panda.jpeg": "/samksites/modern-website/static/media/panda.38ad56b6afe067c0d74e.jpeg",
-    "static/media/Sam_Carter_snowboard.jpeg": "/samksites/modern-website/static/media/Sam_Carter_snowboard.b427510f181938aa5f23.jpeg",
-    "static/media/floridaSwimming.jpeg": "/samksites/modern-website/static/media/floridaSwimming.835049d8cf3a320224fe.jpeg",
-    "static/media/califronia.jpeg": "/samksites/modern-website/static/media/califronia.345d10d6528568c347cf.jpeg",
-    "static/media/starWars.jpeg": "/samksites/modern-website/static/media/starWars.1dbd0d5f735bcb6a4ee1.jpeg",
-    "static/media/hershey.jpeg": "/samksites/modern-website/static/media/hershey.8777eeb767bbcc60cb98.jpeg",
-    "static/media/arlingtonSunSet.jpeg": "/samksites/modern-website/static/media/arlingtonSunSet.dc73d3b0a5111957d7b9.jpeg",
-    "static/media/SanAntonioSwimming.jpeg": "/samksites/modern-website/static/media/SanAntonioSwimming.76a847b5eeb76cc5d4bc.jpeg",
-    "static/media/westCoastRacer.jpeg": "/samksites/modern-website/static/media/westCoastRacer.a1f41ae0234f81b78ee6.jpeg",
-    "index.html": "/samksites/modern-website/index.html",
-    "main.3324dd4a.css.map": "/samksites/modern-website/static/css/main.3324dd4a.css.map",
-    "main.6cb065d5.js.map": "/samksites/modern-website/static/js/main.6cb065d5.js.map"
+    "main.css": "/static/css/main.3324dd4a.css",
+    "main.js": "/static/js/main.68dd477e.js",
+    "static/media/richmondVA.jpg": "/static/media/richmondVA.891cc82848cc9f59c33c.jpg",
+    "static/media/background.jpg": "/static/media/background.6cfdd750f9b444cd045c.jpg",
+    "static/media/jmu.jpg": "/static/media/jmu.80347d9caf6a4d56af7e.jpg",
+    "static/media/Florida_Group.jpeg": "/static/media/Florida_Group.1204043598f3b8ccfde0.jpeg",
+    "static/media/Sam_Carter_Cvill.jpeg": "/static/media/Sam_Carter_Cvill.1ab63669bcd6b6b993ec.jpeg",
+    "static/media/carterSamDate.jpeg": "/static/media/carterSamDate.800b5494ac36edf58636.jpeg",
+    "static/media/panda.jpeg": "/static/media/panda.38ad56b6afe067c0d74e.jpeg",
+    "static/media/Sam_Carter_snowboard.jpeg": "/static/media/Sam_Carter_snowboard.b427510f181938aa5f23.jpeg",
+    "static/media/floridaSwimming.jpeg": "/static/media/floridaSwimming.835049d8cf3a320224fe.jpeg",
+    "static/media/califronia.jpeg": "/static/media/califronia.345d10d6528568c347cf.jpeg",
+    "static/media/starWars.jpeg": "/static/media/starWars.1dbd0d5f735bcb6a4ee1.jpeg",
+    "static/media/hershey.jpeg": "/static/media/hershey.8777eeb767bbcc60cb98.jpeg",
+    "static/media/arlingtonSunSet.jpeg": "/static/media/arlingtonSunSet.dc73d3b0a5111957d7b9.jpeg",
+    "static/media/SanAntonioSwimming.jpeg": "/static/media/SanAntonioSwimming.76a847b5eeb76cc5d4bc.jpeg",
+    "static/media/westCoastRacer.jpeg": "/static/media/westCoastRacer.a1f41ae0234f81b78ee6.jpeg",
+    "index.html": "/index.html",
+    "main.3324dd4a.css.map": "/static/css/main.3324dd4a.css.map",
+    "main.68dd477e.js.map": "/static/js/main.68dd477e.js.map"
   },
   "entrypoints": [
     "static/css/main.3324dd4a.css",
-    "static/js/main.6cb065d5.js"
+    "static/js/main.68dd477e.js"
   ]
 }
