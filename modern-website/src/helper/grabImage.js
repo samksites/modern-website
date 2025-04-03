@@ -8,7 +8,7 @@ import westCoastRacer from '../assets/images/westCoastRacer.jpeg';
 import floridaSwimming from '../assets/images/floridaSwimming.jpeg';
 import richmond from '../assets/images/richmondVA.jpg';
 import arlington from '../assets/images/arlingtonSunSet.jpeg';
-import california from '../assets/images/califronia.jpeg';
+import california from '../assets/images/california.jpeg';
 import carterSamDate from '../assets/images/carterSamDate.jpeg';
 import hershey from '../assets/images/hershey.jpeg';
 import panda from '../assets/images/panda.jpeg';
@@ -31,7 +31,7 @@ const richmondPhoto = {'id': 'richmondPhoto', 'src': richmond, 'alt': 'Train bri
 
 const arlingtonPhoto = {'id': 'arlington', 'src': arlington, 'alt': 'Sunset in Arlington'};
 
-const californiaPhoto = {'id': 'califronia', 'src': california, 'alt': 'Selfie on beach in Califronia'};
+const californiaPhoto = {'id': 'california', 'src': california, 'alt': 'Selfie on beach in California'};
 
 const carterSamDatePhoto = {'id': 'carterSamDate', 'src': carterSamDate, 'alt': 'Selfie before date night'};
 
@@ -52,7 +52,7 @@ const photoCollection = {
     'floridaSwimming': floridaSwimmingPhoto,
     'richmondPhoto': richmondPhoto,
     'arlington': arlingtonPhoto,
-    'califronia': californiaPhoto,
+    'california': californiaPhoto,
     'carterSamDate': carterSamDatePhoto,
     'hershey': hersheyPhoto,
     'panda': pandaPhoto,

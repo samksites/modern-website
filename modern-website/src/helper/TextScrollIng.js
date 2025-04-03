@@ -45,10 +45,10 @@ useEffect(() => {
       return () => clearTimeout(timeout);
 
     }
-  }, [currentIndex, props.sentence,currentGroup, flash]);
+  }, [currentIndex, props.sentences, currentGroup, flash]);
     
 
-    return (<p className=" w-[30rem] whitespace-pre-wrap">{currentText}</p>)
+    return (<p className=" max-w-[80vw] sm:w-[30rem] whitespace-pre-wrap">{currentText}</p>)
 }
 
 export default TextScrollIng;

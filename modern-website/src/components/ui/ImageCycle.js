@@ -26,7 +26,7 @@ const ImageCycle = (props) => {
         }, 15000); // 5000 milliseconds = 5 second
     
         return () => clearInterval(intervalId); // Cleanup on unmount
-      }, [photoNumber,imageList,imageListLength]);
+      }, [photoNumber, props.css, props.photos, imageList,imageListLength]);
 
     return (
         <div className=" h-96 w-60 scale-125 ">
