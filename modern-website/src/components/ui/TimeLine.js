@@ -35,7 +35,7 @@ const TimeLine = (props) => {
 
 
         return (
-        <div onClick={() => {var newList = [...timeLineBlurbs]; newList[index] = blurb(elements,index,position + 1); setTimeLineBlurbs(newList);}} key={"timeLine" + index} className="  pb-10 pt-10  w-3/4 sm:w-1/2 flex justify-start items-center  leftRighBorder">
+        <div onClick={() => {var newList = [...timeLineBlurbs]; newList[index] = blurb(elements,index,position + 1); setTimeLineBlurbs(newList);}} key={"timeLine" + index} className="  pb-10 pt-10  w-3/4 sm:w-1/2 flex justify-start items-center  leftRightBorder">
             
             <div className="w-8  bg-white h-0.5 relative ">    
             </div>

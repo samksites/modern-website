@@ -36,7 +36,7 @@ const HomePage = (props) => {
             
                 </div>
                 <div className=" flex  mt-20 justify-center w-full h-96">
-                    <ImageCycle photos={['florida', 'charlottesville','hershey', 'floridaSwimming', 'starWars', 'califronia', 'carterSamDate', 'panda']} css={'  rounded-xl h-80 size-full  absolute '}/>
+                    <ImageCycle photos={['florida', 'charlottesville','hershey', 'floridaSwimming', 'starWars', 'california', 'carterSamDate', 'panda']} css={'  rounded-xl h-80 size-full  absolute '}/>
                 </div>
             </div>
             <div ref={aboutRef} className="flex flex-col items-center w-full">

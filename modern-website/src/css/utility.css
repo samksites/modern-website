@@ -1,5 +1,5 @@
 @media only screen and (min-width: 640px) {
-    .leftRighBorder:nth-child(odd){
+    .leftRightBorder:nth-child(odd){
         justify-content: start;
         border-left: 2px solid white;
         
@@ -9,7 +9,7 @@
     
     }
     
-    .leftRighBorder:nth-child(even){
+    .leftRightBorder:nth-child(even){
         border-right: 2px solid white;
         justify-content: end;
         flex-direction: row-reverse;
@@ -18,7 +18,7 @@
   }
 
   @media only screen and (max-width: 640px) {
-    .leftRighBorder{
+    .leftRightBorder{
         border-left: 2px solid white;
     
     }

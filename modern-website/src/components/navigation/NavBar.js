@@ -34,9 +34,9 @@ const NavItem = (props) => {
             <a title="GitHub" className=" hover:scale-110 mr-4"  href="https://github.com/samksites">
                 <FaGithub size={'19'} style={{ color: 'rgb(0, 211, 18)' }} />
             </a>
-            <a className=" hover:scale-110">
+            <div className=" hover:scale-110">
                 <RxHamburgerMenu size={'25'} style={{ color: 'rgb(0, 211, 18)' }} /> 
-            </a>
+            </div>
             
             {props.openVar && props.children}
         </li>
@@ -58,9 +58,9 @@ const DropDown = (props) => {
 const DropDownItem = (props) => {
    
     return(
-        <a className="textColor test hover:scale-105 m-2 rounded-md hover:bg-slate-800 h-10 flex items-center justify-center" onClick={() => {props.ref.current.scrollIntoView({behavior: 'smooth'})}}>
+        <div className="textColor test hover:scale-105 m-2 rounded-md hover:bg-slate-800 h-10 flex items-center justify-center" onClick={() => {props.ref.current.scrollIntoView({behavior: 'smooth'})}}>
             {props.name}
-        </a>
+        </div>
 
     );
 }
