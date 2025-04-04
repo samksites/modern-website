@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/modern-website/static/css/main.3324dd4a.css",
-    "main.js": "/modern-website/static/js/main.d8135a20.js",
+    "main.css": "/modern-website/static/css/main.033a154d.css",
+    "main.js": "/modern-website/static/js/main.35c861ef.js",
     "static/media/richmondVA.jpg": "/modern-website/static/media/richmondVA.891cc82848cc9f59c33c.jpg",
     "static/media/background.jpg": "/modern-website/static/media/background.6cfdd750f9b444cd045c.jpg",
     "static/media/jmu.jpg": "/modern-website/static/media/jmu.80347d9caf6a4d56af7e.jpg",
@@ -11,18 +11,18 @@
     "static/media/panda.jpeg": "/modern-website/static/media/panda.38ad56b6afe067c0d74e.jpeg",
     "static/media/Sam_Carter_snowboard.jpeg": "/modern-website/static/media/Sam_Carter_snowboard.b427510f181938aa5f23.jpeg",
     "static/media/floridaSwimming.jpeg": "/modern-website/static/media/floridaSwimming.835049d8cf3a320224fe.jpeg",
-    "static/media/califronia.jpeg": "/modern-website/static/media/califronia.345d10d6528568c347cf.jpeg",
+    "static/media/california.jpeg": "/modern-website/static/media/california.345d10d6528568c347cf.jpeg",
     "static/media/starWars.jpeg": "/modern-website/static/media/starWars.1dbd0d5f735bcb6a4ee1.jpeg",
     "static/media/hershey.jpeg": "/modern-website/static/media/hershey.8777eeb767bbcc60cb98.jpeg",
     "static/media/arlingtonSunSet.jpeg": "/modern-website/static/media/arlingtonSunSet.dc73d3b0a5111957d7b9.jpeg",
     "static/media/SanAntonioSwimming.jpeg": "/modern-website/static/media/SanAntonioSwimming.76a847b5eeb76cc5d4bc.jpeg",
     "static/media/westCoastRacer.jpeg": "/modern-website/static/media/westCoastRacer.a1f41ae0234f81b78ee6.jpeg",
     "index.html": "/modern-website/index.html",
-    "main.3324dd4a.css.map": "/modern-website/static/css/main.3324dd4a.css.map",
-    "main.d8135a20.js.map": "/modern-website/static/js/main.d8135a20.js.map"
+    "main.033a154d.css.map": "/modern-website/static/css/main.033a154d.css.map",
+    "main.35c861ef.js.map": "/modern-website/static/js/main.35c861ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.3324dd4a.css",
-    "static/js/main.d8135a20.js"
+    "static/css/main.033a154d.css",
+    "static/js/main.35c861ef.js"
   ]
 }
